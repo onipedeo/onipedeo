@@ -23,8 +23,8 @@
 <br/>
 <div align="center">
       <a href="https://github.com/onipedeo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onipedeo&show_icons=true&theme=merko&count_private=true" alt="onipedeo's github stats" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onipedeo&theme=merko&layout=compact" alt="onipedeo's github top languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onipedeo&show_icons=true&theme=solarized-dark&count_private=true" alt="onipedeo's github stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onipedeo&theme=solarized-dark&layout=donut" alt="onipedeo's github top languages" />
       </a>
   </div>
 <br/>
